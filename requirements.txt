@@ -1,0 +1,14 @@
+faster-whisper
+whisper
+pydub
+chromadb
+sentence-transformers
+langchain
+llama-index
+openai
+gradio
+streamlit
+python-dotenv
+jupyter
+notebook
+ipykernel
